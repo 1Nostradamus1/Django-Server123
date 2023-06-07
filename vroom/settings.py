@@ -132,5 +132,5 @@ CORS_ORIGIN_WHITELIST = [
     "http://localhost:19006",
     "http://127.0.0.1:8000",
     "http://0.0.0.0:8000",
-    "django-server-production-da2b.up.railway.app"
+    "https://django-server-production-da2b.up.railway.app"
 ]
