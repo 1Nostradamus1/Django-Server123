@@ -5,6 +5,7 @@ import sys
 
 
 def main():
+    STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
     """Run administrative tasks."""
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'vroom.settings')
     try:
